@@ -1,8 +1,5 @@
 ## <strong>Olá! Eu Sou Gustavo Antonio</strong>
 
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-antonio-b54a7b209/)
-
-
 ![Gustavo-Antonio GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-Antonio&show_icons=true&theme=synthwave)
 
 
@@ -32,6 +29,12 @@
     <img align="center"alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div>
 <br>
+
+### <strong>Meu Contato</strong>
+
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-antonio-b54a7b209/)
+[![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gustavo12.0000@gmail.com)
+
 
 #### <i><b>O futuro chegou, mas está mal distribuído<br><p style="float: right;"> - William Gibson</p><i></b>
 
