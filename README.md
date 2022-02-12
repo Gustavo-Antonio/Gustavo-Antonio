@@ -1,9 +1,12 @@
 ## <strong>Olá! Eu Sou Gustavo Antonio</strong>
+  
+<div style="background-color:red";>
 
 ![Gustavo-Antonio GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-Antonio&show_icons=true&theme=synthwave)
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Antonio)](https://github.com/Gustavo-Antonio/github-readme-stats)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Antonio&layout=compact)](https://github.com/Gustavo-Antonio/github-readme-stats)
+</div>
 
 <hr>
 
